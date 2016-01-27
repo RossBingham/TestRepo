@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="arljlljljljgs"></param>
         static void Main(string[] arljlljljljgs)
         {,,m,,m,m
         }
